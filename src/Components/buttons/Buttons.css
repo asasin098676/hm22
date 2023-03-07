@@ -1,0 +1,13 @@
+button {
+  font-size: 1rem;
+  padding: 5px 10px;
+  color: #585858;
+  border-radius: 10px;
+  border: 0px;
+  margin-left: 85px;
+}
+.liked {
+  font-weight: bold;
+  color: #1565c0;
+  background-color: #ff9090b3;
+}

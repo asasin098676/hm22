@@ -1,0 +1,38 @@
+.post {
+  max-width: 900px;
+  margin: 20px auto;
+  background: #505964;
+  color: #fff;
+  padding: 20px 20px 20px 70px;
+  border-radius: 5px;
+}
+.postHeader {
+  display: flex;
+  align-items: center;
+  padding: 0 0 10px 0;
+}
+.postHeaderAva {
+  width: 50px;
+  flex-shrink: 0;
+  margin: 0 10px 0 -60px;
+}
+.postHeaderNickname,
+.postHeaderDate {
+  color: grey;
+  margin-left: 4px;
+}
+
+.postContent img {
+  display: block;
+  max-width: 90%;
+  height: auto;
+  border-radius: 10px;
+  margin: 20px;
+  margin-right: 10px;
+}
+
+.imgAfter {
+  margin-left: 10px;
+  padding: 0 10px 0 0;
+  width: 30px;
+}
